@@ -1,1 +1,1 @@
-# Real life practical project practice for Material UI + Reaact.
+# Real life practical project practice for Material UI + React.
